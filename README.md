@@ -7,4 +7,5 @@ Pipe leak detector is a proof of concept that you can use computer vision and a 
 The algorithm is inspired by the formula of standard diviation. It takes the average pixel values of a series of rappidly taken images and calculates th
 
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.image?\bar{a}&space;=&space;\frac{1}{n}\sum_{i=0}^{n}a_i&space) 
+![\[\bar{a} = \frac{1}{n}\sum_{i=0}^{n}a_i \]]
+
