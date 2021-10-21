@@ -12,6 +12,9 @@ It works by rappidly taking pictures and converting them to grayscale images and
 ![](render2.png)
 
 This makes the droplets in the pictures stand out from the rest of the image. Which is then used to detect that there is a waterleak in the picture.
+
 ![](rest/error_img_smooth.jpeg)
 ![](rest/error_img.jpeg)
 
+We then detect where there is a white mark on the image and then add a green rectange around the detected droplet
+![](rest/Image_detected_0.jpeg)
