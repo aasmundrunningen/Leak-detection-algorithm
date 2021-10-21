@@ -1,7 +1,7 @@
 # Pipe leak detector - An simple and innovative mathematical model for detecting water leaks from industrial pipes
 ### by Anders Haarberg Eriksen, Hilmir Straumland & Åsmund Runningen from team Lilla Neshorn at NorwAI 
 
-![](picor.jpg)
+![](picar.jpg)
 
 Pipe leak detector is a proof of concept that you can use computer vision and a simple mathematical model to detect water leaks in static enviroments. Using a raspberry pi powered picarX with a camera. 
 
