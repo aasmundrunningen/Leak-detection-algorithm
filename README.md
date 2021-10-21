@@ -16,5 +16,6 @@ This makes the droplets in the pictures stand out from the rest of the image. Wh
 ![](rest/error_img_smooth.jpeg)
 ![](rest/error_img.jpeg)
 
-We then detect where there is a white mark on the image and then add a green rectange around the detected droplet
+We then detect where there is a white mark on the image and then add a green rectange around the detected droplet.
+
 ![](rest/Image_detected_0.jpeg)
